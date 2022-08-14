@@ -9,7 +9,7 @@ Steadfast7 is a fork of Steadfast2 because The Devs of Steadfast2 have said that
 - When going into the void while moving when dieing can sometimes freeze the connection between the client and server.
 - use-encrypt=on will crash the server for reason MCPEncrypt class not found
 
-Linux issues (For me)
+# Linux issues (For me)
 - The console will be spammed with endless messages of an error, I will be looking into it for now use windows server or windows.
 - Plugins sometimes don't work of linux, again it is another issue with linux.
 
