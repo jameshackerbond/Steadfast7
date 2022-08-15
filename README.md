@@ -17,7 +17,7 @@ Steadfast7 is a fork of Steadfast2 because The Devs of Steadfast2 have said that
 IF YOU EVER NEED HELP SETTING UP STEADFAST2 OR STEADFAST7 CREATE AN ISSUE OR DM ME ON DISCORD JHB#0001 I WILL GLADLY HELP YOU.
 
 ## Notes
-- Server.log will be not be saved I will implement an option to turn it off an on soon.
+- Server.log will be not be saved I will implement an option to turn it on soon.
 - If you would like to change the query motd, please build the server from source and edit src\pocketmine\network\RakLibInterface.php
 
 ## Installation
