@@ -1,5 +1,6 @@
 ## Introduction
-![sf7](https://user-images.githubusercontent.com/82678869/184560683-a1928028-bd59-47c6-95c2-645618b7d628.png)
+![steadfast](https://user-images.githubusercontent.com/82678869/186724780-c0890809-d1c2-4b0b-87e5-f354db8c0e89.jpg)
+
 
 Steadfast7 is a fork of Steadfast2 because The Devs of Steadfast2 have said that Steadfast2 in the near future will stop being updated once they migrate to PocketMine-MP, Steadfast7 (Name will be changed soon!) Will mainly branch off the Redstone-proxy branch for more gameplay stuff and proxy support. (Still don't know how to use it)
 
