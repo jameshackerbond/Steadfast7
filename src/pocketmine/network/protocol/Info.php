@@ -28,15 +28,15 @@ namespace pocketmine\network\protocol;
 interface Info{
 
 	const CURRENT_PROTOCOL = self::PROTOCOL_544;
-	const ACCEPTED_PROTOCOLS = [419, 422, 423, 428, 431, 440, 448, 465, 471, 475, 486, 503, 526, 527, 534, 544];
+	const ACCEPTED_PROTOCOLS = [419, 422, 423, 428, 431, 440, 448, 465, 471, 475, 486, 503, 526, 527, 534, 544, 545];
 
 	const PROTOCOL_419  = 419; // 1.16.100.59
 	const PROTOCOL_422  = 422; // 1.16.200.56
 	const PROTOCOL_423  = 423; // 1.16.210.50
 	const PROTOCOL_428  = 428; // 1.16.210.50
 	const PROTOCOL_431  = 431; // 1.16.220.52
-	const PROTOCOL_440  = 440;
-	const PROTOCOL_448  = 448;
+	const PROTOCOL_440  = 440; // ???
+	const PROTOCOL_448  = 448; // What the hell is this?
 	const PROTOCOL_465  = 465; // 1.17.30.25
 	const PROTOCOL_471  = 471; // 1.17.40.06
 	const PROTOCOL_475  = 475; // 1.18.0.27
@@ -46,6 +46,7 @@ interface Info{
 	const PROTOCOL_527  = 527; // 1.19.0.5 (release)
 	const PROTOCOL_534  = 534; // 1.19.10.24
 	const PROTOCOL_544  = 544; // 1.19.20.2
+	const PROTOCOL_544  = 544; // 1.19.21.1
 
 
 	/**
